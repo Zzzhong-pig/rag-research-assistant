@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+vector_store/faiss_index/
+vector_store/bm25_corpus.pkl
+*.faiss
+*.pkl
+.DS_Store
+logs/
+data/memory/

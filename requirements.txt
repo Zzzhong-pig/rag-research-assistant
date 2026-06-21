@@ -1,0 +1,16 @@
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-openai==0.3.0
+langchain-text-splitters==0.3.4
+faiss-cpu==1.9.0.post1
+sentence-transformers==3.3.1
+rank-bm25==0.2.2
+pypdf==5.1.0
+python-dotenv==1.0.1
+fastapi==0.115.6
+uvicorn==0.34.0
+streamlit==1.41.1
+numpy>=1.24.0
+pandas>=2.0.0
+datasets>=2.14.0
+ragas>=0.2.0
